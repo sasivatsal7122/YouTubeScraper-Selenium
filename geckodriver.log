@@ -1,0 +1,63 @@
+1685110818864	geckodriver	INFO	Listening on 127.0.0.1:51079
+1685110819374	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "47813" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileiDAqRC"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1685110819588	Marionette	INFO	Marionette enabled
+1685110819591	Marionette	INFO	Listening on port 44471
+console.error: "Warning: unrecognized command line flag -disable-web-security\n"
+console.error: "Warning: unrecognized command line flag -disable-plugins-discovery\n"
+console.error: "Warning: unrecognized command line flag -disable-setuid-sandbox\n"
+console.error: "Warning: unrecognized command line flag -disable-dev-shm-usage\n"
+WebDriver BiDi listening on ws://127.0.0.1:47813
+Read port: 44471
+1685110819780	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1685110819792	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:38077","sslProxy":"127.0.0.1:38077"}
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 58: Error: Can't find profile directory.
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:47813/devtools/browser/0e390930-a2f6-47e6-aca6-f339f290cfd2
+1685110878187	geckodriver	INFO	Listening on 127.0.0.1:60007
+1685110878692	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "53625" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilecHuDWU"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1685110878879	Marionette	INFO	Marionette enabled
+1685110878881	Marionette	INFO	Listening on port 46217
+Read port: 46217
+console.error: "Warning: unrecognized command line flag -disable-web-security\n"
+console.error: "Warning: unrecognized command line flag -disable-plugins-discovery\n"
+console.error: "Warning: unrecognized command line flag -disable-setuid-sandbox\n"
+console.error: "Warning: unrecognized command line flag -disable-dev-shm-usage\n"
+WebDriver BiDi listening on ws://127.0.0.1:53625
+1685110878949	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1685110878982	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:37945","sslProxy":"127.0.0.1:37945"}
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 58: Error: Can't find profile directory.
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:53625/devtools/browser/1b4af710-28bd-46fd-babd-b2dccb0e2e4c
+1685110923688	geckodriver	INFO	Listening on 127.0.0.1:35293
+1685110923690	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ge" "--remote-debugging-port" "46649" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileC4s0L2"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1685110924194	Marionette	INFO	Marionette enabled
+1685110924196	Marionette	INFO	Listening on port 34857
+console.error: "Warning: unrecognized command line flag -disable-web-security\n"
+console.error: "Warning: unrecognized command line flag -disable-plugins-discovery\n"
+console.error: "Warning: unrecognized command line flag -disable-setuid-sandbox\n"
+console.error: "Warning: unrecognized command line flag -disable-dev-shm-usage\n"
+WebDriver BiDi listening on ws://127.0.0.1:46649
+Read port: 34857
+1685110924382	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1685110924393	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:41141","sslProxy":"127.0.0.1:41141"}
+console.error: ({})
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 58: Error: Can't find profile directory.
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:46649/devtools/browser/496a32f3-739a-49b3-93a1-70d5865b9452
+1685110930102	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
