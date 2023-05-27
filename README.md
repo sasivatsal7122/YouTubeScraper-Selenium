@@ -27,7 +27,7 @@ python youtubeScraper.py --keyword "data science" --max-scrolls 500 --output-fil
 ```
 ![image](https://github.com/sasivatsal7122/YouTubeScraper-Selenium/assets/71326149/99e879ec-9a49-4b5c-9a8a-3af9994faa9c)
 
-2. Or you directly set the variables in the script and run
+2. Or you can directly set the variables in the script and run
 ```shell
 python youtubeScraper.py
 ```
